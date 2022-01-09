@@ -86,7 +86,7 @@ db.ventas.aggregate([
 
 // Dinero total de cada producto vendido.
 
-db.articulos.aggregate([
+db.ventas.aggregate([
     
     {
         $group: {_id: "$tipoproducto", dineroTotalProducto: {$sum: {$multiply: ["$pvp", "$unidades"] } } } 
