@@ -7,7 +7,7 @@
 Realizaremos el proyecto subiéndolo a nuestro repositorio GitHub con la estructura vista en clase:
 
 ```
-Carpeta src (con los archivos .js), carpeta doc (con un pdf que explique los aspectos teóricos, técnicos y lo que pretende tu proyecto) y, un archivo [README.md](https://www.youtube.com/watch?v=6WlDQSAE2VE) con la introducción al proyecto.
+Carpeta src (con los archivos .js) y un archivo [README.md](https://www.youtube.com/watch?v=6WlDQSAE2VE) con la introducción al proyecto.
 
 ```
 
